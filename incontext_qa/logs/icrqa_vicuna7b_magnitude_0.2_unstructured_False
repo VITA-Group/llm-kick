@@ -1,0 +1,9 @@
+Namespace(random=False, model_type='vicuna7b', seed=0, nsamples=128, sparsity_ratio=0.2, sparsity_type='unstructured', prune_method='magnitude', cache_dir='/data/ajay_data/MCI/llm_weights', use_variant=False, num_examples=10, data_dir='data', ntrain=5, include_context=False, model='lmsys/vicuna-7b-v1.3')
+
+Sparsity sanity check 0.2001 (unstructured, magnitude)
+----------------------------------------
+Results: {'exact_match': 50.0, 'f1': 40.0}
+
+
+
+ -------- Total time taken:   0:00:20.943007-----------

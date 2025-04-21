@@ -1,6 +1,6 @@
 # [ICLR 2024] Compressing LLMs: The Truth is Rarely Pure and Never Simple
 ---
-```This code is a reproduced (unofficial) version of the work done during the internship at Apple.```
+```This code is a reproduced (unofficial) version of the work done during the internship at Apple```
 
 > **Authors:** [Ajay Jaiswal](https://ajay1994.github.io/), [Zhe Gan](https://zhegan27.github.io/), [Xianzhi Du](https://www.linkedin.com/in/xianzhi-du-1b128934), [Bowen Zhang](https://zbwglory.github.io/), [Zhangyang Wang](https://vita-group.github.io/index.html), [Yinfei Yang](https://www.linkedin.com/in/yinfeiy)
 
